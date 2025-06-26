@@ -1,6 +1,6 @@
 {
   "name": "pairwise-ranker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, session-based JavaScript library for deterministic pairwise ranking.",
   "main": "dist/pairwise-ranker.js",
   "types": "dist/pairwise-ranker.d.ts",
