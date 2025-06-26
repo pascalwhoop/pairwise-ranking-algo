@@ -1,0 +1,36 @@
+{
+  "name": "pairwise-ranker",
+  "version": "1.0.0",
+  "description": "A lightweight, session-based JavaScript library for deterministic pairwise ranking.",
+  "main": "dist/pairwise-ranker.js",
+  "types": "dist/pairwise-ranker.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "@types/jest": "^29.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pascalwhoop/pairwise-ranking-algo.git"
+  },
+  "keywords": [
+    "pairwise",
+    "ranking",
+    "comparison",
+    "hot-or-not",
+    "elo",
+    "deterministic"
+  ],
+  "author": "pascalwhoop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pascalwhoop/pairwise-ranking-algo/issues"
+  },
+  "homepage": "https://github.com/pascalwhoop/pairwise-ranking-algo#readme"
+}

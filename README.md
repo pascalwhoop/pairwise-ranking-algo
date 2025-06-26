@@ -26,7 +26,7 @@ npm install pairwise-ranker
 OR drop into your app via ES6 module:
 
 ```js
-import { PairwiseRanker } from './pairwise-ranker.js';
+import { PairwiseRanker } from './pairwise-ranker.ts';
 ```
 
 ---
@@ -169,5 +169,5 @@ Not in scope for v1, but easy to extend later:
 
 ## 💬 Questions?
 
-Reach out to the maintainers
+Reach out to @pascalwhoop
 
